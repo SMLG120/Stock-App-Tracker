@@ -1,3 +1,17 @@
+# Stock App Tracker
+
+**Live demo:** https://ascent-stock-app-tracker.vercel.app (sign-up required)
+
+Next.js stock tracking app with Better Auth authentication, MongoDB/Mongoose persistence, and Inngest background jobs for scheduled data refreshes and email alerts.
+
+## Tech stack
+
+- Next.js / React / TypeScript, Tailwind CSS, Radix UI
+- Better Auth, MongoDB with Mongoose
+- Inngest (event-driven background jobs), Nodemailer
+
+## Development
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
